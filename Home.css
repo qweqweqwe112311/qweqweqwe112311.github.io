@@ -57,3 +57,18 @@
   font-size: 0.75rem;
   margin: 4px auto 19px;
 }
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 99px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-top: -50px;
+    padding: 17px 42px 19px 41px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: 8px;
+  }
+}
